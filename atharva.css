@@ -185,64 +185,64 @@ background-size: fill;
 }
 
 #card1 {
-  background-image: url('/photos/cyber.png');
+  background-image: url('photos/cyber.png');
 }
 
 #card2 {
-  background-image: url('/photos/videoediting.png');
+  background-image: url('photos/videoediting.png');
 }
 
 #card3 {
-  background-image: url('/photos/management.png');
+  background-image: url('photos/management.png');
 }
 
 #card4 {
-  background-image: url('/photos/git.png');
+  background-image: url('photos/git.png');
 }
 
 #card5 {
-  background-image: url('/photos/html.png');
+  background-image: url('photos/html.png');
 }
 
 #card6 {
-  background-image: url('/photos/css.png');
+  background-image: url('photos/css.png');
 }
 
 #card7 {
-  background-image: url('/photos/js.png');
+  background-image: url('photos/js.png');
 }
 
 #card8 {
-  background-image: url('/photos/c.png');
+  background-image: url('photos/c.png');
 }
 
 #card9 {
-  background-image: url('/photos/cpp.png');
+  background-image: url('photos/cpp.png');
 }
 
 #card11 {
-  background-image: url('/photos/networking.png');
+  background-image: url('photos/networking.png');
 }
 #card12 {
-  background-image: url('/photos/cn.png');
+  background-image: url('photos/cn.png');
 }
 #card13 {
-  background-image: url('/photos/react.png');
+  background-image: url('photos/react.png');
 }
 #card14 {
-  background-image: url('/photos/mongo.png');
+  background-image: url('photos/mongo.png');
 }
 #card15 {
-  background-image: url('/photos/express.png');
+  background-image: url('photos/express.png');
 }
 #card16 {
-  background-image: url('/photos/node.png');
+  background-image: url('photos/node.png');
 }
 #card17 {
-  background-image: url('/photos/tail.png');
+  background-image: url('photos/tail.png');
 }
 #card18 {
-  background-image: url('/photos/boot.png');
+  background-image: url('photos/boot.png');
 }
 
 .fa {
